@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+body { 
+    font-family: 'DotGothic16', sans-serif;
+    background: url(/2789327.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+.container
+{
+    margin-top: 10%;
+    opacity:0.9;
+}
+a
+{
+    margin-left: 39%;
+    color: black;
+    text-decoration: none;
+}
